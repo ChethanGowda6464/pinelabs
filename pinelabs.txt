@@ -1,2 +1,2 @@
 this file using by notepad to create this 
-hi this session is for git and github
+hi this session is for git and github2
